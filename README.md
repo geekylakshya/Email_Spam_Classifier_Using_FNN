@@ -33,6 +33,22 @@ The model architecture used in this project is a feedforward neural network:
 
 The model is trained using binary cross-entropy loss and Adam optimizer.
 
+## User Input
+
+To add a fun twist and test the model's performance further, users can input their own email text to check whether it is classified as spam or ham.
+
+### Instructions:
+
+1. Swap out the `input_mail` variable with your own email text.
+2. Run the code to predict whether the input email is spam or ham.
+
+### Example Usage:
+
+```python
+input_mail = ["Your very own email text goes here."]
+```
+<small>And hey, just a heads up! While our model has been trained on a dataset of emails, it might miss out on catching some of the latest spam trends circulating these days. So, don't be surprised if it doesn't catch all the newest tricks up those sneaky spammers' sleeves! 😄📧🔍</small>
+
 ## Usage 
 
 1. Clone the repository:
@@ -55,10 +71,11 @@ The model's performance is evaluated on a separate test set, as well as on the t
 
 The project provides insights into the effectiveness of using TensorFlow and natural language processing techniques for email spam classification. Results are visualized using Matplotlib.
 
+
 ## Author
 
 Made By Me (**Lakshay**)
 
-## License 📄
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
