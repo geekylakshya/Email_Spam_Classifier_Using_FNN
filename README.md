@@ -2,9 +2,11 @@
 
 This project aims to build a machine learning model to classify emails as spam or ham (not spam) using natural language processing techniques and TensorFlow.
 
-## Dataset 
+## Dataset
 
 The dataset used in this project is a collection of emails labeled as spam or ham. It contains two columns: `Category` (spam/ham) and `Message` (email text). The dataset is stored in a CSV file named `mail_data.csv`.
+
+**Note:** The dataset may have been updated since the creation of this project. For the most recent version of the dataset, please refer to [this link](https://example.com/updated_mail_data.csv).
 
 ## Requirements 
 
