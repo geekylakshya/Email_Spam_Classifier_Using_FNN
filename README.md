@@ -1,4 +1,4 @@
-# Email Spam Classifier Project
+# Email Spam Classifier
 
 This project aims to build a machine learning model to classify emails as spam or ham (not spam) using natural language processing techniques and TensorFlow.
 
