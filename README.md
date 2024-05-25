@@ -49,7 +49,7 @@ To add a fun twist and test the model's performance further, users can input the
 ```python
 input_mail = ["Your very own email text goes here."]
 ```
-<small>And hey, just a heads up! While our model has been trained on a dataset of emails, it might miss out on catching some of the latest spam trends circulating these days. So, don't be surprised if it doesn't catch all the newest tricks up those sneaky spammers' sleeves! 😄📧🔍</small>
+<small>And hey, just a heads up! While our model has been trained on a dataset of emails, it might miss out on catching some of the latest spam trends circulating these days. So, don't be surprised if it doesn't catch all the newest tricks up those sneaky spammers' sleeves!</small>
 
 ## Usage 
 
