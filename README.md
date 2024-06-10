@@ -73,11 +73,6 @@ The model's performance is evaluated on a separate test set, as well as on the t
 
 The project provides insights into the effectiveness of using TensorFlow and natural language processing techniques for email spam classification. Results are visualized using Matplotlib.
 
-
-## Author
-
-Made By Me (**Lakshay**)
-
 ## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
